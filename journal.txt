@@ -1,0 +1,123 @@
+4611686018427387903
+Plus petit
+2305843009213693951
+Plus petit
+1152921504606846975
+Plus petit
+576460752303423487
+Plus petit
+288230376151711743
+Plus petit
+144115188075855871
+Plus petit
+72057594037927935
+Plus petit
+36028797018963967
+Plus petit
+18014398509481983
+Plus petit
+9007199254740991
+Plus petit
+4503599627370495
+Plus petit
+2251799813685247
+Plus petit
+1125899906842623
+Plus petit
+562949953421311
+Plus petit
+281474976710655
+Plus petit
+140737488355327
+Plus petit
+70368744177663
+Plus petit
+35184372088831
+Plus petit
+17592186044415
+Plus petit
+8796093022207
+Plus petit
+4398046511103
+Plus petit
+2199023255551
+Plus petit
+1099511627775
+Plus petit
+549755813887
+Plus petit
+274877906943
+Plus petit
+137438953471
+Plus petit
+68719476735
+Plus petit
+34359738367
+Plus petit
+17179869183
+Plus petit
+8589934591
+Plus petit
+4294967295
+Plus petit
+2147483647
+Plus petit
+1073741823
+Plus petit
+536870911
+Plus petit
+268435455
+Plus petit
+134217727
+Plus petit
+67108863
+Plus petit
+33554431
+Plus petit
+16777215
+Plus petit
+8388607
+Plus petit
+4194303
+Plus petit
+2097151
+Plus petit
+1048575
+Plus petit
+524287
+Plus petit
+262143
+Plus petit
+131071
+Plus petit
+65535
+Plus petit
+32767
+Plus petit
+16383
+Plus petit
+8191
+Plus petit
+4095
+Plus petit
+2047
+Plus petit
+1023
+Plus petit
+511
+Plus petit
+255
+Plus petit
+127
+Plus petit
+63
+Plus petit
+31
+Plus grand
+47
+Plus grand
+55
+Plus petit
+51
+Plus petit
+00:00.99

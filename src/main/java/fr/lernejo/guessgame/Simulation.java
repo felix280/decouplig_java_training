@@ -50,7 +50,7 @@ public class Simulation {
         long tempsFin= System.currentTimeMillis();
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("mm:ss.SS");
         long tempsExec = tempsFin - tempsDebut;
-        String temps = simpleDateFormat.format(tempsFin);
+        String temps = simpleDateFormat.format(tempsExec);
         logger.log(temps);
     }
 

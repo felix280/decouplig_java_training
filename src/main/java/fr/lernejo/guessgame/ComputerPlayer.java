@@ -17,11 +17,13 @@ public class ComputerPlayer implements Player {
     @Override
     public void respond(boolean lowerOrGreater) {
         if(lowerOrGreater){
+            logger.log(Long.toString(tmp));
             logger.log("Plus grand");
             inf = tmp;
         }
 
         if(!lowerOrGreater){
+            logger.log(Long.toString(tmp));
             sup = tmp;
             logger.log("Plus petit");
         }
