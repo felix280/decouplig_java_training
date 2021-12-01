@@ -38,10 +38,20 @@ public class Simulation {
         }
     }
 
-    public void loopUntilPlayerSucceed() {
-        boolean fin;
-        do{
-            fin = nextRound();
-        }while(!fin);
+    public void loopUntilPlayerSucceed(long MaxRounds) {
+        long tempsDebut = System.currentTimeMillis();
+        boolean nextRound;
+        for(int i=0; i<MaxRounds;i++){
+            nextRound = nextRound();
+            if(nextRound)
+                break;
+        }
+        long tempsFin= System.currentTimeMillis();
+
+        long tempsExec = tempsFin - tempsDebut;
+        float seconds = (tempsFin - tempsDebut) / 1000F;
+        System.out.println("Opération effectuée en: "+ Float.toString(seconds) + " secondes.");
     }
+
+
 }
