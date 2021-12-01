@@ -3,6 +3,7 @@ package fr.lernejo.guessgame;
 import fr.lernejo.logger.Logger;
 import fr.lernejo.logger.LoggerFactory;
 
+import java.text.SimpleDateFormat;
 import java.util.Scanner;
 
 public class Simulation {
@@ -47,10 +48,10 @@ public class Simulation {
                 break;
         }
         long tempsFin= System.currentTimeMillis();
-
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("mm:ss.SS");
         long tempsExec = tempsFin - tempsDebut;
-        float seconds = (tempsFin - tempsDebut) / 1000F;
-        System.out.println("Opération effectuée en: "+ Float.toString(seconds) + " secondes.");
+        String temps = simpleDateFormat.format(tempsFin);
+        logger.log(temps);
     }
 
 
